@@ -15,6 +15,7 @@ Table of contents.
 ## Basic Course Information
 
 | Instructor: | [Hal Daumé III](http://hal3.name) |
+| --- | --- |
 | When: | T/R 3:30pm-4:45pm |
 | Where: | IRB 1116 |
 | TAs: | [Kianté Brantley](), [Trista Cao](), and [Amr Sharaf](http://www.cs.umd.edu/~amr/) |
