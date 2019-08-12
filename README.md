@@ -56,7 +56,7 @@ sufficient. In particular, you should be able to:
 
 - Program in python
 - Use basic unix commands ([backgound](http://www.stanford.edu/class/cs124/kwc-unix-for-poets.pdf))
-- Function with basic probability and statistics ([background](http://hspm.sph.sc.edu/COURSES/J716/a01/stat.html))
+- Function with basic probability and statistics ([background](https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics)
 - Apply basic linear algebra ([background](http://users.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf))
 
 If you cannot handle all of these things (and cannot pick them up quickly), you should expect to run into challenges in the course.
@@ -89,6 +89,13 @@ reasonable academic accommodations due to a disability is requested to
 provide, to the instructor in office hours, a letter of accommodation
 from the Office of Disability Support Services (DSS) within the first
 TWO weeks of the semester.
+
+**Laptops in Class:** It's been repeatedly documented in many studies
+that if you can, you are likely better off not using a laptop in
+class ([example study](https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html)).
+You can make your own decision, but if your laptop use is distracting
+others, an instructor may ask you to move to the back row of the
+classroom. Please reach out to any instructor if we can help.
 
 **Academic Integrity:** Any assignment or exam that is handed in must
 be your own work. However, talking with one another to understand the
