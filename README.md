@@ -1,12 +1,30 @@
 # Computational Linguistics 1 - Fall 2019 - University of Maryland (CMSC723, INST735, LING723)
 
+Table of contents.
+1. [Basic Course Information](#basic-course-information)
+1. [About this Course](#about-this-course)
+1. [Prerequisites](#prerequisites)
+1. [Grading](#grading)
+1. [Class Policies](#class-policies)
+1. [Course Schedule](#course-schedule)
+1. [Homework Assignments](#homework-assignments)
+1. [Course Projects](#course-projects)
+
+
+
 ## Basic Course Information
 
 Instructor: [Hal Daumé III](http://hal3.name)
+
 When: T/R 3:30pm-4:45pm
+
 Where: IRB 1116
+
 TAs: [Kianté Brantley](), [Trista Cao](), and [Amr Sharaf](http://www.cs.umd.edu/~amr/)
+
 Discussion: [Piazza]()
+
+
 
 Office Hours and Location:
 - Hal: TBD, IRB 4150
@@ -108,7 +126,7 @@ includes degrading verbal comments, deliberate intimidation, stalking,
 harassing photography or recording, inappropriate physical contact,
 and unwelcome sexual attention. Please contact an instructor or CS
 staff member if you have questions or if you feel you are the victim
-of harassment (or otherwise witness harassment of others). *(Adapted
+of harassment (or otherwise witness harassment of others). (Adapted
 from the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).)
 
 
@@ -147,8 +165,8 @@ from the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php
 | R 21 Nov | TBA | TBA |
 | T 26 Nov | TBA | TBA |
 | R 28 Nov | *Thanksgiving Break* | - |
-| R 03 Dec | TBA | TBA |
-| T 05 Dec | TBA | TBA |
+| T 03 Dec | TBA | TBA |
+| R 05 Dec | TBA | TBA |
 | TBA | *Final Exam* | - |
 
 
