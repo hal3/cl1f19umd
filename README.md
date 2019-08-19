@@ -1,34 +1,6 @@
-# Computational Linguistics 1 - Fall 2019 - University of Maryland (CMSC723, INST735, LING723)
-
-Table of contents.
-1. [Basic Course Information](#basic-course-information)
-1. [About this Course](#about-this-course)
-1. [Prerequisites](#prerequisites)
-1. [Grading](#grading)
-1. [Class Policies](#class-policies)
-1. [Course Schedule](#course-schedule)
-1. [Homework Assignments](#homework-assignments)
-1. [Course Project](#course-project)
+# Computational Linguistics 1 (CMSC723, INST735, LING723), Fall 2019, University of Maryland
 
 
-___
-## Basic Course Information
-
-| | |
-| :--- | :--- |
-| **Instructor** | [Hal Daumé III](http://hal3.name) |
-| **When** | T/R 3:30pm-4:45pm |
-| **Where** | IRB 1116 |
-| **TAs** | [Kianté Brantley](), [Trista Cao](), and [Amr Sharaf](http://www.cs.umd.edu/~amr/) |
-| **Discussion** | [ELMS](https://umd.instructure.com/courses/1267356) |
-| **Homework** | [ELMS](https://umd.instructure.com/courses/1267356)
-| **Office Hours**<br/><br/><br/><br/> | Hal: TBD, IRB 4150<br/>Kianté: TBD<br/>Trista: TBD<br/>Amr: TBD |
-| | |
-
-
-
-___
-## About this Course
 
 Computational linguistics (CL) is the science of doing what linguists
 do with language, but using computers. Natural language processing
@@ -37,6 +9,29 @@ language, but using computers. We'll cover both, though the emphasis
 is on NLP. We will largely focus on machine learning-based approaches
 to a wide variety of challenging problems in NLP, with an emphasis on
 recent deep learning-based tecniques.
+
+1. [Basic Course Information](#basic-course-information)
+1. [Prerequisites](#prerequisites)
+1. [Grading](#grading)
+1. [Class Policies](#class-policies)
+1. [Course Project](#course-project)
+1. [Course Schedule](#course-schedule)
+
+
+___
+## Basic Course Information
+
+| | | |
+| :--- | :--- | :--- |
+| **Instructor** | [Hal Daumé III](http://hal3.name) (he/him) | [![Photo of Hal Daumé III](images/hal-small.jpg)](images/hal.jpg)
+| **When** | T/R 3:30pm-4:45pm |
+| **Where** | IRB 1116 |
+| **TAs**<br/><br/><br/> | [Kianté Brantley]() (he/him)<br/> [Trista Cao]() (she/her)<br/> [Amr Sharaf](http://www.cs.umd.edu/~amr/) (he/him) | [![Photo of Kianté Brantley](images/kiante-small.jpg)](images/kiante.jpg) [![Photo of Trista Cao](images/trista-small.jpg)](images/trista.jpg) [![Photo of Amr Sharaf](images/amr-small.jpg)](images/amr.jpg)
+| **Discussion &**<br/>**Homework** | [ELMS](https://umd.instructure.com/courses/1267356) |
+| **Office Hours**<br/><br/><br/><br/> | Hal: TBD, IRB 4150<br/>Kianté: TBD<br/>Trista: TBD<br/>Amr: TBD |
+| | |
+
+
 
 
 
@@ -83,7 +78,7 @@ The components of grading are:
 ___
 ## Course Project
 
-A substantial portion of [Computational Linguistics 1](README.md) is the team-based course project. In a team of four or five students (interdisciplinary teams are *highly* encouraged!), we will complete a project of your choosing throughout the semester. The topic of the course project is **open-ended**, though it must fulfill certain requirements (most notably, relevance to natural language processing or computational linguistics). It is your opportunity to put your NLP knowledge to use in a project of your choosing.
+A substantial portion of [Computational Linguistics 1](README.md) is the team-based course project. You will work in teams of four or five students. We highly recommend interdisciplinary teams are; and because diverse teams often produce better outcomes than homogenous teams, we encourage you to reach out and work with people who aren't (yet) your friends. As a team, you will complete a project of your choosing throughout the semester. The topic of the course project is **open-ended**, though it must fulfill certain requirements (most notably, relevance to natural language processing or computational linguistics). THis is your opportunity to put your NLP/CL knowledge to use in a project of your choosing.
 
 There are several *deliverables* for the cource project, with associated grade percentages:
 1. Project brainstorming, pitch, and feedback (5%)
@@ -91,6 +86,8 @@ There are several *deliverables* for the cource project, with associated grade p
 1. Description of proposed approach and measures of success (5%)
 1. Prototype/baseline implementation and initial results (5%)
 1. Final write-up and presentation (15%)
+
+Each team will be assigned one of the TAs with whom you should meet once before 12 Nov (the due date for P3). You should also meet with Hal once before Thanksgiving break. We will create a signup sheet early on in the semester; use your own judgment for when would be most useful for *you* to meet with us.
 
 *Credit: Some ideas for course project implementation are from Walter Lasecki's course on [Social Computing Systems](https://web.eecs.umich.edu/~wlasecki/courses/socs_current/) and/or Chris Callison-Burch's course on [Crowdsourcing](http://crowdsourcing-class.org/project.html).*
 
@@ -108,7 +105,8 @@ that if you can, you are likely better off not using a laptop in
 class ([example study](https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html)).
 You can make your own decision, but if your laptop use is distracting
 others, an instructor may ask you to move to the back row of the
-classroom. Please reach out to any instructor if we can help. (h/t Jacob Eisenstein for the link.)
+classroom. Please reach out to any instructor if we can help.
+(h/t Jacob Eisenstein for the link.)
 
 **Academic Integrity:** Any assignment or exam that is handed in must
 be your own work. However, talking with one another to understand the
@@ -149,7 +147,7 @@ staff member if you have questions or if you feel you are the victim
 of harassment (or otherwise witness harassment of others). (Adapted
 from the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy).)
 
-
+**Web Accessibility:** The University of Maryland is committed to [equal access to Web content](https://www.umd.edu/web-accessibility). If you need to request Web content in an alternative format or have comments or suggestions on accessibility, contact itaccessibility@umd.edu. 
 
 ___
 ## Course Schedule
