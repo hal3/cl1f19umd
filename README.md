@@ -57,7 +57,14 @@ If you cannot handle all of these things (and cannot pick them up quickly), you 
 ___
 ## Cousework and Grading
 
-During this course, you will have five homework assignments that include both *programming* and *written* aspects. The written aspects are largely designed to help you do the programming more efficiently, by working through some of the details of what you will implement. These assignments are to be completed *individually*, and will be graded individually (see "collaboration policy" below). The goal of these assignments are to ensure that you learn and can implement standard NLP techniques, and understand and process langauge data effectively.
+During this course, you will have five homework assignments that include both *programming* and *written* aspects. The written aspects are largely designed to help you do the programming more efficiently, by working through some of the details of what you will implement. These assignments are to be completed *individually*, and will be graded individually (see "collaboration policy" below). The goal of these assignments are to ensure that you learn and can implement standard NLP techniques, and understand and process langauge data effectively. These are:
+
+- HW1: Distributional semantics and text categorization
+- HW2: Neural networks and word embeddings
+- HW3: Data collection and evaluation
+- HW4: Sequence labeling
+- HW5: Encoder-decoder models with attention
+
 
 You will also complete one, large, course project, in teams of 4-5 students (exceptions are possible). The goal of this project is to enable you to work on a more significant, potentially impactful, project dealing with natural language. See the [course project description](#course-project) for more information.
 
@@ -81,11 +88,11 @@ ___
 A substantial portion of [Computational Linguistics 1](README.md) is the team-based course project. You will work in teams of four or five students. We highly recommend interdisciplinary teams are; and because diverse teams often produce better outcomes than homogenous teams, we encourage you to reach out and work with people who aren't (yet) your friends. As a team, you will complete a project of your choosing throughout the semester. The topic of the course project is **open-ended**, though it must fulfill certain requirements (most notably, relevance to natural language processing or computational linguistics). THis is your opportunity to put your NLP/CL knowledge to use in a project of your choosing.
 
 There are several *deliverables* for the cource project, with associated grade percentages:
-1. Project brainstorming, pitch, and feedback (5%)
-1. Survey of related work, and plans for data (5%)
-1. Description of proposed approach and measures of success (5%)
-1. Prototype/baseline implementation and initial results (5%)
-1. Final write-up and presentation (15%)
+- P1: Project brainstorming, pitch, and feedback (5%)
+- P2: Survey of related work, and plans for data (5%)
+- P3: Description of proposed approach and measures of success (5%)
+- P4: Prototype/baseline implementation and initial results (5%)
+- P5: Final write-up and presentation (15%)
 
 Each team will be assigned one of the TAs with whom you should meet once before 12 Nov (the due date for P3). You should also meet with Hal once before Thanksgiving break. We will create a signup sheet early on in the semester; use your own judgment for when would be most useful for *you* to meet with us.
 
