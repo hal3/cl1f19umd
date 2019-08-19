@@ -8,30 +8,26 @@ Table of contents.
 1. [Class Policies](#class-policies)
 1. [Course Schedule](#course-schedule)
 1. [Homework Assignments](#homework-assignments)
-1. [Course Projects](#course-projects)
+1. [Course Project](#course-project)
 
 
-
+___
 ## Basic Course Information
 
-| Instructor | [Hal Daumé III](http://hal3.name) |
+| | |
 | :--- | :--- |
+| **Instructor** | [Hal Daumé III](http://hal3.name) |
 | **When** | T/R 3:30pm-4:45pm |
 | **Where** | IRB 1116 |
 | **TAs** | [Kianté Brantley](), [Trista Cao](), and [Amr Sharaf](http://www.cs.umd.edu/~amr/) |
-| **Discussion** | [Piazza]() |
+| **Discussion** | [ELMS](https://umd.instructure.com/courses/1267356) |
+| **Homework** | [ELMS](https://umd.instructure.com/courses/1267356)
+| **Office Hours**<br/><br/><br/><br/> | Hal: TBD, IRB 4150<br/>Kianté: TBD<br/>Trista: TBD<br/>Amr: TBD |
+| | |
 
 
 
-Office Hours and Location:
-- Hal: TBD, IRB 4150
-- Kianté: TBD
-- Trista: TBD
-- Amr: TBD
-
-
-
-
+___
 ## About this Course
 
 Computational linguistics (CL) is the science of doing what linguists
@@ -44,6 +40,7 @@ recent deep learning-based tecniques.
 
 
 
+___
 ## Prerequisites
 
 The required prerequisite for this course in an undergraduate AI
@@ -52,33 +49,52 @@ LING 689/889 (Computational Psycholinguistics) should be
 sufficient. In particular, you should be able to:
 
 - Program in python
-- Use basic unix commands ([backgound](http://www.stanford.edu/class/cs124/kwc-unix-for-poets.pdf))
-- Function with basic probability and statistics ([background](https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics)
-- Apply basic linear algebra ([background](http://users.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf))
+- Use core unix commands ([backgound](http://www.stanford.edu/class/cs124/kwc-unix-for-poets.pdf))
+- Function with foundational probability and statistics ([background](https://stanford.edu/~shervine/teaching/cs-229/refresher-probabilities-statistics))
+- Apply essential linear algebra ([background](http://users.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf))
+- Implement and understand central machine learning techniques (e.g., [CIML](http://ciml.info) chapters 1-5 and 7)
 
 If you cannot handle all of these things (and cannot pick them up quickly), you should expect to run into challenges in the course.
 
 
 
 
-## Grading
+___
+## Cousework and Grading
+
+During this course, you will have five homework assignments that include both *programming* and *written* aspects. The written aspects are largely designed to help you do the programming more efficiently, by working through some of the details of what you will implement. These assignments are to be completed *individually*, and will be graded individually (see "collaboration policy" below). The goal of these assignments are to ensure that you learn and can implement standard NLP techniques, and understand and process langauge data effectively.
+
+You will also complete one, large, course project, in teams of 4-5 students (exceptions are possible). The goal of this project is to enable you to work on a more significant, potentially impactful, project dealing with natural language. See the [course project description](#course-project) for more information.
 
 The components of grading are:
 
-- Homework assignments (X%)
-- In-class/piazza participation (X%)
-- Projects (X%)
-- Exams (X%)
+- Homework assignments (7% each, 35% total)
+- Course project (35% total)
+- Early exam (10%) and late exam (15%)
+- In-class/piazza participation (5%)
 
-On *participation*, you are to actively in class or on Piazza. If you participate on Piazza, every question you answer well will get you 1% credit (marked by "instructor approved answer"); every question you ask will get you 0.5% credit (marked as "good question" by the instructor or a TA). Asking/answering questions in class counts the same.
+**Participation:** You are to participate actively in class or in the online discussions. If you participate online, every question you answer well will get you 1% credit (marked by "instructor approved answer"); every question you ask will get you 0.5% credit (marked as "good question" by the instructor or a TA). Asking/answering questions in class counts the same.
 
-**Late-ness**: Late homeworks are not allowed without prior approval. Projects may be handed in two days late, but at a 25% (absolute) penalty.
+**Late-ness:** In general, nothing may be handed in late without prior approval. However, every student may use one "stuff happens" card for one deadline (homework or course project), for which you can get 48 extra hours at no penalty.
 
-If you handed something in and do not get a score for an assignment,
-you have a one week moritorium to resolve this.
-
+**Score adjustments:** Everyone makes mistakes, including us on grading. If you handed something in and do not get a score for an assignment, or if you believe there is an error in grading (either a homework or exam or project), you may raise this issue with us within *one week* of when we hand back grades.
 
 
+___
+## Course Project
+
+A substantial portion of [Computational Linguistics 1](README.md) is the team-based course project. In a team of four or five students (interdisciplinary teams are *highly* encouraged!), we will complete a project of your choosing throughout the semester. The topic of the course project is **open-ended**, though it must fulfill certain requirements (most notably, relevance to natural language processing or computational linguistics). It is your opportunity to put your NLP knowledge to use in a project of your choosing.
+
+There are several *deliverables* for the cource project, with associated grade percentages:
+1. Project brainstorming, pitch, and feedback (5%)
+1. Survey of related work, and plans for data (5%)
+1. Description of proposed approach and measures of success (5%)
+1. Prototype/baseline implementation and initial results (5%)
+1. Final write-up and presentation (15%)
+
+*Credit: Some ideas for course project implementation are from Walter Lasecki's course on [Social Computing Systems](https://web.eecs.umich.edu/~wlasecki/courses/socs_current/) and/or Chris Callison-Burch's course on [Crowdsourcing](http://crowdsourcing-class.org/project.html).*
+
+___
 ## Class Policies
 
 **Disability Support:** Any student eligible for and requesting
@@ -92,7 +108,7 @@ that if you can, you are likely better off not using a laptop in
 class ([example study](https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html)).
 You can make your own decision, but if your laptop use is distracting
 others, an instructor may ask you to move to the back row of the
-classroom. Please reach out to any instructor if we can help.
+classroom. Please reach out to any instructor if we can help. (h/t Jacob Eisenstein for the link.)
 
 **Academic Integrity:** Any assignment or exam that is handed in must
 be your own work. However, talking with one another to understand the
@@ -135,57 +151,49 @@ from the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php
 
 
 
+___
 ## Course Schedule
 
-(subject to change)
+Note that readings and homeworks are to be completed *before* the class period on which they are marked. For instance, you should have completed reading TODO before class on 29 Aug, and you must hand in HW1 before class on 12 Sep.
 
-| Date     | Topic | Readings Due |
-| :---:    | :---  | :---: |
-| T 27 Aug | TBA | TBA |
-| R 29 Aug | TBA | TBA |
-| T 03 Sep | TBA | TBA |
-| R 05 Sep | TBA | TBA |
-| T 10 Sep | TBA | TBA |
-| R 12 Sep | TBA | TBA |
-| T 17 Sep | TBA | TBA |
-| R 19 Sep | TBA | TBA |
-| T 24 Sep | TBA | TBA |
-| R 26 Sep | TBA | TBA |
-| T 01 Oct | TBA | TBA |
-| R 03 Oct | TBA | TBA |
-| T 08 Oct | TBA | TBA |
-| R 10 Oct | TBA | TBA |
-| T 15 Oct | TBA | TBA |
-| R 17 Oct | TBA | TBA |
-| T 22 Oct | TBA | TBA |
-| R 24 Oct | TBA | TBA |
-| T 29 Oct | TBA | TBA |
-| R 31 Oct | TBA | TBA |
-| T 05 Nov | TBA | TBA |
-| R 07 Nov | TBA | TBA |
-| T 12 Nov | TBA | TBA |
-| R 14 Nov | TBA | TBA |
-| T 19 Nov | TBA | TBA |
-| R 21 Nov | TBA | TBA |
-| T 26 Nov | TBA | TBA |
-| R 28 Nov | *Thanksgiving Break* | - |
-| T 03 Dec | TBA | TBA |
-| R 05 Dec | TBA | TBA |
-| TBA | *Final Exam* | - |
+Readings may be from:
+* SLP3: Jurafsky and Martin, [Speech and Language Processing (3rd edition)](https://web.stanford.edu/~jurafsky/slp3/)
+* CIML: Daumé III, [A Course in Machine Learning](http://ciml.info)
+* NLP: Eisensten, [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+* Neu: Neubig, [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf)
 
+| Date     | Topic | Reading | Deadline |
+| :---:    | :---  | :--- | :--- |
+| T 27 Aug | Introduction to computational linguistics |  | 
+| R 29 Aug | Distributional semantics | SLP3 6.2-6.5 | 
+| T 03 Sep | Review: linear models and loss functions | CIML 7 | 
+| R 05 Sep | Text categorization: linguistic features and evaluation | TBA |
+| T 10 Sep | Bias and fairness in NLP systems | [Webinar](https://note.microsoft.com/MSR-Webinar-Machine-Learning-and-Fairness-Registration-LIVE.html)* |
+| R 12 Sep | Computation graphs and backpropagation | NLP 3.1-3.3 | HW1
+| T 17 Sep | Word meaning as classification | SLP3 6.8-6.9 | 
+| R 19 Sep | Data collection and annotation | TBA | 
+| T 24 Sep | Crowdsourcing | TBA | 
+| R 26 Sep | Experimental design and testing | TBA | HW2
+| T 01 Oct | Multilinguality and linguistic variety | Bender??? | 
+| R 03 Oct | *Early exam* |  | 
+| T 08 Oct | N-gram language models | SLP3 3 | 
+| R 10 Oct | Recurrent neural language models | SLP3 9 | HW3
+| T 15 Oct | Sequence labeling | CIML 17 | 
+| R 17 Oct | *Project Pitches* | | P1
+| T 22 Oct | Encoder-decoder models | Neu 7-7.3.1 | 
+| R 24 Oct | Contextual word embeddings | BERT??? | 
+| T 29 Oct | *Catch-up* | | P2
+| R 31 Oct | Attention mechanisms | Neu  8 | 
+| T 05 Nov | Multilingual models | TBA | HW4
+| R 07 Nov | Imitation learning | CIML 18 | 
+| T 12 Nov | Natural language generation and evaluation | TBA | P3
+| R 14 Nov | *Late exam* |  | 
+| T 19 Nov | Bias in language systems | TBA | 
+| R 21 Nov | Interpretation of neural models | TBA | HW5
+| T 26 Nov | Grounded semantics | TBA | P4
+| R 28 Nov | *Thanksgiving Break* |  | 
+| T 03 Dec | Machine translation | TBA | 
+| R 05 Dec | Reading comprehension and question answering | TBA | 
+| T 17 Dec | *Project Poster Session (10:30a-12:30p)* |  | P5
 
-
-
-## Homework Assignments
-
-TBA
-
-
-
-
-## Course Projects
-
-TBA
-
-
-
+\* The webinar link requires you to "register"; if this is an issue for you for any reason, please let any instructor know at least three days ahead of time so we can find a work-around.
