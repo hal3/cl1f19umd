@@ -1,21 +1,22 @@
 # Computational Linguistics 1 (CMSC723, INST735, LING723), Fall 2019, University of Maryland
 
-
-
 Computational linguistics (CL) is the science of doing what linguists
 do with language, but using computers. Natural language processing
 (NLP) is the engineering discipline of doing what people do with
 language, but using computers. We'll cover both, though the emphasis
 is on NLP. We will largely focus on machine learning-based approaches
 to a wide variety of challenging problems in NLP, with an emphasis on
-recent deep learning-based tecniques.
+recent deep learning-based techniques. Class time and readings will
+focus on techniques; homeworks will largely focus on using NLP techniques
+to address socially relevant problems. A focus throughout the course
+will be on bias and fairness in machine learning systems.
 
-1. [Basic Course Information](#basic-course-information)
-1. [Prerequisites](#prerequisites)
-1. [Grading](#grading)
-1. [Class Policies](#class-policies)
-1. [Course Project](#course-project)
-1. [Course Schedule](#course-schedule)
+  - [Basic Course Information](#basic-course-information)
+  - [Prerequisites](#prerequisites)
+  - [Coursework and Grading](#cousework-and-grading)
+  - [Course Project](#course-project)
+  - [Class Policies](#class-policies)
+  - [Course Schedule](#course-schedule)
 
 
 ___
@@ -57,7 +58,26 @@ If you cannot handle all of these things (and cannot pick them up quickly), you 
 ___
 ## Cousework and Grading
 
-During this course, you will have five homework assignments that include both *programming* and *written* aspects. The written aspects are largely designed to help you do the programming more efficiently, by working through some of the details of what you will implement. These assignments are to be completed *individually*, and will be graded individually (see "collaboration policy" below). The goal of these assignments are to ensure that you learn and can implement standard NLP techniques, and understand and process langauge data effectively. These are:
+The components of grading are:
+
+- Homework assignments (7% each, 35% total)
+- Course project (35% total)
+- Early exam (10%) and late exam (15%)
+- In-class/piazza participation (5%)
+
+Final class grades will be assigned based on the following mapping, possibly with thresholds adjusted down (*but never adjusted up*):
+
+| Score | Grade |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Score | Grade |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Score | Grade |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| | || >=94 | A || >= 90 | A- |
+| >=87 | B+ || >=84 | B || >= 80 | B- |
+| >=77 | C+ || >=74 | C || >= 70 | C- |
+| >=67 | D+ || >=64 | D || >= 60 | D- |
+
+
+
+
+During this course, you will have five homework assignments that include both *programming* and *written* aspects. The written aspects are largely designed to help you do the programming more efficiently, by working through some of the details of what you will implement. These assignments are to be completed *individually*, and will be graded individually (see "collaboration policy" below). The goal of these assignments are to ensure that you learn and can implement standard NLP techniques, and understand and process language data effectively. These are:
 
 - HW1: Distributional semantics and text categorization
 - HW2: Neural networks and word embeddings
@@ -68,16 +88,9 @@ During this course, you will have five homework assignments that include both *p
 
 You will also complete one, large, course project, in teams of 4-5 students (exceptions are possible). The goal of this project is to enable you to work on a more significant, potentially impactful, project dealing with natural language. See the [course project description](#course-project) for more information.
 
-The components of grading are:
-
-- Homework assignments (7% each, 35% total)
-- Course project (35% total)
-- Early exam (10%) and late exam (15%)
-- In-class/piazza participation (5%)
-
 **Participation:** You are to participate actively in class or in the online discussions. If you participate online, every question you answer well will get you 1% credit (marked by "instructor approved answer"); every question you ask will get you 0.5% credit (marked as "good question" by the instructor or a TA). Asking/answering questions in class counts the same.
 
-**Late-ness:** In general, nothing may be handed in late without prior approval. However, every student may use one "stuff happens" card for one deadline (homework or course project), for which you can get 48 extra hours at no penalty.
+**Late-ness:** In general, nothing may be handed in late without prior approval. However, every student may use one "stuff happens" card for one homework deadline, and every team may use one "stuff happens" card for one project deadline. These cards give you an additional 48 extra hours at no penalty in grade.
 
 **Score adjustments:** Everyone makes mistakes, including us on grading. If you handed something in and do not get a score for an assignment, or if you believe there is an error in grading (either a homework or exam or project), you may raise this issue with us within *one week* of when we hand back grades.
 
@@ -85,9 +98,9 @@ The components of grading are:
 ___
 ## Course Project
 
-A substantial portion of [Computational Linguistics 1](README.md) is the team-based course project. You will work in teams of four or five students. We highly recommend interdisciplinary teams are; and because diverse teams often produce better outcomes than homogenous teams, we encourage you to reach out and work with people who aren't (yet) your friends. As a team, you will complete a project of your choosing throughout the semester. The topic of the course project is **open-ended**, though it must fulfill certain requirements (most notably, relevance to natural language processing or computational linguistics). THis is your opportunity to put your NLP/CL knowledge to use in a project of your choosing.
+A substantial portion of your coursework is a team-based project. You will work in teams of four or five students. We highly recommend interdisciplinary teams are; and because diverse teams often produce better outcomes than homogenous teams, we encourage you to reach out and work with people who aren't (yet) your friends. As a team, you will complete a project of your choosing throughout the semester. The topic of the course project is **open-ended**, though it must fulfill certain requirements (most notably, relevance to natural language processing or computational linguistics). This is your opportunity to put your NLP/CL knowledge to use in a project of your choosing.
 
-There are several *deliverables* for the cource project, with associated grade percentages:
+There are several *deliverables* for the course project, with associated grade percentages:
 - P1: Project brainstorming, pitch, and feedback (5%)
 - P2: Survey of related work, and plans for data (5%)
 - P3: Description of proposed approach and measures of success (5%)
@@ -109,11 +122,11 @@ TWO weeks of the semester.
 
 **Laptops in Class:** It's been repeatedly documented in many studies
 that if you can, you are likely better off not using a laptop in
-class ([example study](https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html)).
+class ([example study](https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html); h/t Jacob Eisenstein).
 You can make your own decision, but if your laptop use is distracting
-others, an instructor may ask you to move to the back row of the
-classroom. Please reach out to any instructor if we can help.
-(h/t Jacob Eisenstein for the link.)
+others, an instructor may ask you to cease using it (in particular,
+please avoid using websites with popup videos and the like). 
+Please reach out to any instructor if we can help.
 
 **Academic Integrity:** Any assignment or exam that is handed in must
 be your own work. However, talking with one another to understand the
@@ -130,7 +143,7 @@ issues relevant to the assignments. When taking an exam, you must work
 independently. Any collaboration during an exam will be considered
 cheating. Any student who is caught cheating will be given an E in the
 course and referred to the University Student Behavior
-Committee. Please don't take that chance - if you're having trouble
+Committee. Please don't take that chance---if you're having trouble
 understanding the material, please let us know and we will be more
 than happy to help.
 
@@ -167,8 +180,8 @@ Readings may be from:
 * NLP: Eisensten, [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 * Neu: Neubig, [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf)
 
-| Date     | Topic | Reading | Deadline |
-| :---:    | :---  | :--- | :--- |
+| Date | Topic | Reading | Deadline |
+| :--- | :---  | :--- | :--- |
 | T 27 Aug | Introduction to computational linguistics |  | 
 | R 29 Aug | Distributional semantics | SLP3 6.2-6.5 | 
 | T 03 Sep | Review: linear models and loss functions | CIML 7 | 
