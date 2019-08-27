@@ -182,7 +182,7 @@ Readings may be from:
 
 | Date | Topic | Reading | Deadline |
 | :--- | :---  | :--- | :--- |
-| T 27 Aug | Introduction to computational linguistics |  | 
+| T 27 Aug | [Introduction to computational linguistics](slides/01_welcome.pdf) |  | 
 | R 29 Aug | Distributional semantics | SLP3 6.2-6.5 | 
 | T 03 Sep | Review: linear models and loss functions | CIML 7 | 
 | R 05 Sep | Text categorization: linguistic features and evaluation | TBA |
