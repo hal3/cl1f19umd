@@ -183,7 +183,7 @@ Readings may be from:
 | Date | Topic | Reading | Deadline |
 | :--- | :---  | :--- | :--- |
 | T 27 Aug | [Introduction to computational linguistics](slides/01_welcome.pdf) |  | 
-| R 29 Aug | Distributional semantics | SLP3 6.2-6.5 | 
+| R 29 Aug | [Distributional semantics](slides/02_distributional.pdf) | SLP3 6.2-6.5 | 
 | T 03 Sep | Review: linear models and loss functions | CIML 7 | 
 | R 05 Sep | Text categorization: linguistic features and evaluation | TBA |
 | T 10 Sep | Bias and fairness in NLP systems | [Webinar](https://note.microsoft.com/MSR-Webinar-Machine-Learning-and-Fairness-Registration-LIVE.html)* |
