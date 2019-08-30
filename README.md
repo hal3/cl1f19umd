@@ -63,7 +63,7 @@ The components of grading are:
 - Homework assignments (7% each, 35% total)
 - Course project (35% total)
 - Early exam (10%) and late exam (15%)
-- In-class/piazza participation (5%)
+- In-class/elms participation (5%)
 
 Final class grades will be assigned based on the following mapping, possibly with thresholds adjusted down (*but never adjusted up*):
 
