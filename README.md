@@ -29,7 +29,7 @@ ___
 | **Where** | IRB 1116 |
 | **TAs**<br/><br/><br/> | [Kianté Brantley]() (he/him)<br/> [Trista Cao]() (she/her)<br/> [Amr Sharaf](http://www.cs.umd.edu/~amr/) (he/him) | [![Photo of Kianté Brantley](images/kiante-small.jpg)](images/kiante.jpg) [![Photo of Trista Cao](images/trista-small.jpg)](images/trista.jpg) [![Photo of Amr Sharaf](images/amr-small.jpg)](images/amr.jpg)
 | **Discussion &**<br/>**Homework** | [ELMS](https://umd.instructure.com/courses/1267356) |
-| **Office Hours**<br/><br/><br/><br/> | Hal: TBD, IRB 4150<br/>Kianté: TBD<br/>Trista: TBD<br/>Amr: TBD |
+| **Office Hours**<br/><br/><br/><br/> | Hal: Thr 1:45p-2:30p, IRB 4150<br/>Trista: Mon 4:00p-5:00p, IRB 4th floor, in front of 4105 <br/>Amr: Wed 10:00a-11:00a, IRB 4th floor, in front of 4105  |
 | | |
 
 
