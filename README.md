@@ -188,7 +188,7 @@ Readings may be from:
 | R 05 Sep | [Text categorization: linguistic features and evaluation](slides/04_representations.pdf) | SLP3 4.7, [Authorship Attribution](https://www.aclweb.org/anthology/N15-1010) Section 2, 5 |
 | T 10 Sep | Bias and fairness in NLP systems | [Webinar](https://note.microsoft.com/MSR-Webinar-Machine-Learning-and-Fairness-Registration-LIVE.html)* |
 | R 12 Sep | Computation graphs and backpropagation | NLP 3.1-3.3 | HW1
-| T 17 Sep | Word meaning as classification | SLP3 6.8-6.9 | 
+| T 17 Sep | Word meaning as classification | SLP3 6.8-6.9, [RacistAI](http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/) | 
 | R 19 Sep | Data collection and annotation | TBA | 
 | T 24 Sep | Crowdsourcing | TBA | 
 | R 26 Sep | Experimental design and testing | TBA | HW2
