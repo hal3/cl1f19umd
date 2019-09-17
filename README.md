@@ -189,10 +189,10 @@ Readings may be from:
 | T 10 Sep | Bias and fairness in NLP systems | [Webinar](https://note.microsoft.com/MSR-Webinar-Machine-Learning-and-Fairness-Registration-LIVE.html)* |
 | R 12 Sep | [Computation graphs and backpropagation](slides/06_nnets.pdf) | NLP 3.1-3.3 | HW1
 | T 17 Sep | Word meaning as classification | SLP3 6.8-6.9, [RacistAI](http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/) | 
-| R 19 Sep | Data collection and annotation | [DataInNLP](https://www.aclweb.org/anthology/W17-1603), [AnnCaseStudy](https://www.aclweb.org/anthology/W13-1703) | 
-| T 24 Sep | Measurement and validity | [Measurement](https://cehs01.unl.edu/aalbano/intro-measurement-r/validity.html), [MeasurementCaseStudy, Sec "Reliability, Validity, ..."](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2009.00427.x) | 
-| R 26 Sep | Crowdsourcing annotations | [CrowdsourcingNLP](https://www.researchgate.net/profile/Marta_Sabou/publication/315380496_Corpus_Annotation_through_Crowdsourcing_Towards_Best_Practice_Guidelines/links/5afc2040a6fdccacab199b4b/Corpus-Annotation-through-Crowdsourcing-Towards-Best-Practice-Guidelines.pdf), [AnnMyths](https://www.aaai.org/ojs/index.php/aimagazine/article/download/2564/2468) | HW2
-| T 01 Oct | Multilinguality and linguistic variety | [TheBenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/), [Elicitation, Sec 3](https://www.jstor.org/stable/pdf/40008189.pdf), [optional: ActiveElicitation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.180.8103&rep=rep1&type=pdf) | 
+| R 19 Sep | Data collection and annotation | [DataInNLP](https://www.aclweb.org/anthology/W17-1603)<br/>[AnnCaseStudy](https://www.aclweb.org/anthology/W13-1703) | 
+| T 24 Sep | Measurement and validity | [Measurement](https://cehs01.unl.edu/aalbano/intro-measurement-r/validity.html)<br/>[MeasurementCaseStudy, Sec "Reliability, Validity, ..."](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2009.00427.x) | 
+| R 26 Sep | Crowdsourcing annotations | [CrowdsourcingNLP](https://www.researchgate.net/profile/Marta_Sabou/publication/315380496_Corpus_Annotation_through_Crowdsourcing_Towards_Best_Practice_Guidelines/links/5afc2040a6fdccacab199b4b/Corpus-Annotation-through-Crowdsourcing-Towards-Best-Practice-Guidelines.pdf)<br/>[AnnMyths](https://www.aaai.org/ojs/index.php/aimagazine/article/download/2564/2468) | HW2
+| T 01 Oct | Multilinguality and linguistic variety | [TheBenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/)<br/>[Elicitation, Sec 3](https://www.jstor.org/stable/pdf/40008189.pdf)<br/>[optional: ActiveElicitation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.180.8103&rep=rep1&type=pdf) | 
 | R 03 Oct | *Early exam* |  | 
 | T 08 Oct | N-gram language models | SLP3 3 | 
 | R 10 Oct | Recurrent neural language models | SLP3 9 | HW3
