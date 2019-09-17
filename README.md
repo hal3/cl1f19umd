@@ -185,14 +185,14 @@ Readings may be from:
 | T 27 Aug | [Introduction to computational linguistics](slides/01_welcome.pdf) |  | 
 | R 29 Aug | [Distributional semantics](slides/02_distributional.pdf) | SLP3 6.2-6.5 | 
 | T 03 Sep | Review: linear models and loss functions | CIML 7 | [OH Poll](https://www.when2meet.com/?8039682-QmEKZ)
-| R 05 Sep | [Text categorization: linguistic features and evaluation](slides/04_representations.pdf) | SLP3 4.7, [Sylometry §2,5](https://www.aclweb.org/anthology/N15-1010) |
+| R 05 Sep | [Text categorization: linguistic features and evaluation](slides/04_representations.pdf) | SLP3 4.7,<br/>and [Stylometry §2,5](https://www.aclweb.org/anthology/N15-1010) |
 | T 10 Sep | Bias and fairness in NLP systems | [Webinar](https://note.microsoft.com/MSR-Webinar-Machine-Learning-and-Fairness-Registration-LIVE.html)* |
 | R 12 Sep | [Computation graphs and backpropagation](slides/06_nnets.pdf) | NLP 3.1-3.3 | HW1
-| T 17 Sep | Word meaning as classification | SLP3 6.8-6.9, [RacistAI](http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/) | 
-| R 19 Sep | Data collection and annotation | [DataInNLP](https://www.aclweb.org/anthology/W17-1603)<br/>[AnnCaseStudy](https://www.aclweb.org/anthology/W13-1703) | 
-| T 24 Sep | Measurement and validity | [Measurement](https://cehs01.unl.edu/aalbano/intro-measurement-r/validity.html)<br/>[MeasurementCaseStudy, Sec "Reliability, Validity, ..."](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2009.00427.x) | 
-| R 26 Sep | Crowdsourcing annotations | [CrowdsourcingNLP](https://www.researchgate.net/profile/Marta_Sabou/publication/315380496_Corpus_Annotation_through_Crowdsourcing_Towards_Best_Practice_Guidelines/links/5afc2040a6fdccacab199b4b/Corpus-Annotation-through-Crowdsourcing-Towards-Best-Practice-Guidelines.pdf)<br/>[AnnMyths](https://www.aaai.org/ojs/index.php/aimagazine/article/download/2564/2468) | HW2
-| T 01 Oct | Multilinguality and linguistic variety | [TheBenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/)<br/>[Elicitation, Sec 3](https://www.jstor.org/stable/pdf/40008189.pdf)<br/>[optional: ActiveElicitation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.180.8103&rep=rep1&type=pdf) | 
+| T 17 Sep | Word meaning as classification | SLP3 6.8-6.9,<br/>and [RacistAI](http://blog.conceptnet.io/posts/2017/how-to-make-a-racist-ai-without-really-trying/) | 
+| R 19 Sep | Data collection and annotation | [DataInNLP](https://www.aclweb.org/anthology/W17-1603),<br/>and [AnnCaseStudy](https://www.aclweb.org/anthology/W13-1703) | 
+| T 24 Sep | Measurement and validity | [Measurement](https://cehs01.unl.edu/aalbano/intro-measurement-r/validity.html),<br/>and [MeasurementCaseStudy, Sec "Reliability, Validity, ..."](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-5907.2009.00427.x) | 
+| R 26 Sep | Crowdsourcing annotations | [CrowdsourcingNLP](https://www.researchgate.net/profile/Marta_Sabou/publication/315380496_Corpus_Annotation_through_Crowdsourcing_Towards_Best_Practice_Guidelines/links/5afc2040a6fdccacab199b4b/Corpus-Annotation-through-Crowdsourcing-Towards-Best-Practice-Guidelines.pdf),<br/>and [AnnMyths](https://www.aaai.org/ojs/index.php/aimagazine/article/download/2564/2468) | HW2
+| T 01 Oct | Multilinguality and linguistic variety | [TheBenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/),<br/>and [Elicitation, Sec 3](https://www.jstor.org/stable/pdf/40008189.pdf),<br/>and [optional: ActiveElicitation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.180.8103&rep=rep1&type=pdf) | 
 | R 03 Oct | *Early exam* |  | 
 | T 08 Oct | N-gram language models | SLP3 3 | 
 | R 10 Oct | Recurrent neural language models | SLP3 9 | HW3
