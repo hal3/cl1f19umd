@@ -80,7 +80,7 @@ Final class grades will be assigned based on the following mapping, possibly wit
 During this course, you will have five homework assignments that include both *programming* and *written* aspects. The written aspects are largely designed to help you do the programming more efficiently, by working through some of the details of what you will implement. These assignments are to be completed *individually*, and will be graded individually (see "collaboration policy" below). The goal of these assignments are to ensure that you learn and can implement standard NLP techniques, and understand and process language data effectively. These are:
 
 - [HW1: Distributional semantics and text categorization (no code hand-in)](homework/HW1)
-- HW2: Neural networks and word embeddings
+- [HW2: Neural networks and word embeddings](https://ec2-35-174-60-178.compute-1.amazonaws.com:9443/)
 - HW3: Data collection and evaluation
 - HW4: Sequence labeling
 - HW5: Encoder-decoder models with attention
