@@ -204,14 +204,14 @@ Readings may be from:
 | R 31 Oct | Attention mechanisms | Neu  8 | 
 | T 05 Nov | Multilingual models | TBA | HW4
 | R 07 Nov | Imitation learning | CIML 18 | 
-| T 12 Nov | Natural language generation and evaluation | TBA | P3
+| T 12 Nov | Program synthesis from language | TBA | P3
 | R 14 Nov | *Late exam* |  | 
-| T 19 Nov | Bias in language systems | TBA | 
-| R 21 Nov | Interpretation of neural models | TBA | HW5
-| T 26 Nov | Grounded semantics | TBA | P4
+| T 19 Nov | Grounded semantics: language to actions | TBA | 
+| R 21 Nov | Reading comprehension and question answering | TBA | HW5
+| T 26 Nov | Bias in language systems | TBA | P4
 | R 28 Nov | *Thanksgiving Break* |  | 
-| T 03 Dec | Machine translation | TBA | 
-| R 05 Dec | Reading comprehension and question answering | TBA | 
+| T 03 Dec | Interpretation of neural models | TBA | 
+| R 05 Dec | Machine translation | TBA | 
 | T 17 Dec | *Project Poster Session (10:30a-12:30p)* |  | P5
 
 \* The webinar link requires you to "register"; if this is an issue for you for any reason, please let any instructor know at least three days ahead of time so we can find a work-around.
