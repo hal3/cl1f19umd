@@ -98,7 +98,7 @@ You will also complete one, large, course project, in teams of 4-5 students (exc
 ___
 ## Course Project
 
-A substantial portion of your coursework is a team-based project. You will work in teams of four or five students. We highly recommend interdisciplinary teams are; and because diverse teams often produce better outcomes than homogenous teams, we encourage you to reach out and work with people who aren't (yet) your friends. As a team, you will complete a project of your choosing throughout the semester. The topic of the course project is **open-ended**, though it must fulfill certain requirements (most notably, relevance to natural language processing or computational linguistics). This is your opportunity to put your NLP/CL knowledge to use in a project of your choosing.
+A substantial portion of your coursework is a team-based project. You will work in teams. We highly recommend interdisciplinary teams are; and because diverse teams often produce better outcomes than homogenous teams, we encourage you to reach out and work with people who aren't (yet) your friends. As a team, you will complete a project of your choosing throughout the semester. The topic of the course project is **open-ended**, though it must fulfill certain requirements (most notably, relevance to natural language processing or computational linguistics). This is your opportunity to put your NLP/CL knowledge to use in a project of your choosing.
 
 There are several *deliverables* for the course project, with associated grade percentages:
 - P1: Project brainstorming, pitch, and feedback (5%)
@@ -197,11 +197,11 @@ Readings may be from:
 | T 08 Oct | N-gram language models | SLP3 3 | 
 | R 10 Oct | Recurrent neural language models | SLP3 9 |
 | T 15 Oct | Sequence labeling | CIML 17 | HW3
-| R 17 Oct | *Project Pitches* | | P1
-| T 22 Oct | Encoder-decoder models | Neu 7-7.3.1 | 
+| R 17 Oct | Encoder-decoder models | Neu 7-7.3.1 | 
+| T 22 Oct | *Project Pitches* | |  P1
 | R 24 Oct | Contextual word embeddings | BERT??? | 
-| T 29 Oct | *Catch-up* | | P2
-| R 31 Oct | Attention mechanisms | Neu  8 | 
+| T 29 Oct | *Catch-up* | | 
+| R 31 Oct | Attention mechanisms | Neu  8 | P2
 | T 05 Nov | Multilingual models | TBA | HW4
 | R 07 Nov | Imitation learning | CIML 18 | 
 | T 12 Nov | Program synthesis from language | TBA | P3
