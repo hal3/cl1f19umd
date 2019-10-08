@@ -196,8 +196,8 @@ Readings may be from:
 | R 03 Oct | *Early exam* |  | 
 | T 08 Oct | [N-gram language models](slides/11_lms.pdf) | SLP3 3 | 
 | R 10 Oct | Recurrent neural language models | SLP3 9 |
-| T 15 Oct | Sequence labeling | CIML 17 | HW3
-| R 17 Oct | Encoder-decoder models | Neu 7-7.3.1 | 
+| T 15 Oct | Sequence labeling | CIML 17 | 
+| R 17 Oct | Encoder-decoder models | Neu 7-7.3.1 | HW3
 | T 22 Oct | *Project Pitches* | |  P1
 | R 24 Oct | Contextual word embeddings | BERT??? | 
 | T 29 Oct | *Catch-up* | | 
