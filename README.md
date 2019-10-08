@@ -109,6 +109,8 @@ There are several *deliverables* for the course project, with associated grade p
 
 Each team will be assigned one of the TAs with whom you should meet once before 12 Nov (the due date for P3). You should also meet with Hal once before Thanksgiving break. We will create a signup sheet early on in the semester; use your own judgment for when would be most useful for *you* to meet with us.
 
+Please see [the course project pages](project/README.md) for more details!
+
 *Credit: Some ideas for course project implementation are from Walter Lasecki's course on [Social Computing Systems](https://web.eecs.umich.edu/~wlasecki/courses/socs_current/) and/or Chris Callison-Burch's course on [Crowdsourcing](http://crowdsourcing-class.org/project.html).*
 
 ___
@@ -196,8 +198,8 @@ Readings may be from:
 | R 03 Oct | *Early exam* |  | 
 | T 08 Oct | [N-gram language models](slides/11_lms.pdf) | SLP3 3 | 
 | R 10 Oct | Recurrent neural language models | SLP3 9 |
-| T 15 Oct | Sequence labeling | CIML 17 | HW3
-| R 17 Oct | Encoder-decoder models | Neu 7-7.3.1 | 
+| T 15 Oct | Sequence labeling | CIML 17 | 
+| R 17 Oct | Encoder-decoder models | Neu 7-7.3.1 | HW3
 | T 22 Oct | *Project Pitches* | |  P1
 | R 24 Oct | Contextual word embeddings | BERT??? | 
 | T 29 Oct | *Catch-up* | | 
