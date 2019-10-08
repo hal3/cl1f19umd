@@ -194,7 +194,7 @@ Readings may be from:
 | R 26 Sep | [Crowdsourcing annotations](slides/10_crowdsourcing.pdf) | [CrowdsourcingNLP](https://www.researchgate.net/profile/Marta_Sabou/publication/315380496_Corpus_Annotation_through_Crowdsourcing_Towards_Best_Practice_Guidelines/links/5afc2040a6fdccacab199b4b/Corpus-Annotation-through-Crowdsourcing-Towards-Best-Practice-Guidelines.pdf),<br/>and [AnnMyths](https://www.aaai.org/ojs/index.php/aimagazine/article/download/2564/2468) | HW2
 | T 01 Oct | **CLASS CANCELLED (Hal sick)** Multilinguality and linguistic variety | [TheBenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/),<br/>and [Elicitation, Sec 3](https://www.jstor.org/stable/pdf/40008189.pdf),<br/>and [optional: ActiveElicitation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.180.8103&rep=rep1&type=pdf) | 
 | R 03 Oct | *Early exam* |  | 
-| T 08 Oct | N-gram language models | SLP3 3 | 
+| T 08 Oct | [N-gram language models](slides/11_lms.pdf) | SLP3 3 | 
 | R 10 Oct | Recurrent neural language models | SLP3 9 |
 | T 15 Oct | Sequence labeling | CIML 17 | HW3
 | R 17 Oct | Encoder-decoder models | Neu 7-7.3.1 | 
