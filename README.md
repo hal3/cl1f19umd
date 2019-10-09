@@ -86,7 +86,7 @@ During this course, you will have five homework assignments that include both *p
 - HW5: Encoder-decoder models with attention
 
 
-You will also complete one, large, course project, in teams of 4-5 students (exceptions are possible). The goal of this project is to enable you to work on a more significant, potentially impactful, project dealing with natural language. See the [course project description](#course-project) for more information.
+You will also complete one, large, course project, in teams of 4-8 students (exceptions are possible). The goal of this project is to enable you to work on a more significant, potentially impactful, project dealing with natural language. See the [course project description](#course-project) for more information.
 
 **Participation:** You are to participate actively in class or in the online discussions. If you participate online, every question you answer well will get you 1% credit (marked by "instructor approved answer"); every question you ask will get you 0.5% credit (marked as "good question" by the instructor or a TA). Asking/answering questions in class counts the same.
 
