@@ -197,8 +197,8 @@ Readings may be from:
 | T 01 Oct | **CLASS CANCELLED (Hal sick)** Multilinguality and linguistic variety | [TheBenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/),<br/>and [Elicitation, Sec 3](https://www.jstor.org/stable/pdf/40008189.pdf),<br/>and [optional: ActiveElicitation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.180.8103&rep=rep1&type=pdf) | 
 | R 03 Oct | *Early exam* |  | 
 | T 08 Oct | [N-gram language models](slides/11_lms.pdf) | SLP3 3 | 
-| R 10 Oct | Recurrent neural language models | SLP3 9 |
-| T 15 Oct | Sequence labeling | CIML 17 | 
+| R 10 Oct | [Recurrent neural language models](slides/12_nnlm.pdf) | SLP3 9 |
+| T 15 Oct | [Sequence labeling](slides/13_seqlab.pdf) | CIML 17 | 
 | R 17 Oct | Encoder-decoder models | Neu 7-7.3.1 | HW3
 | T 22 Oct | *Project Pitches* | |  P1
 | R 24 Oct | Contextual word embeddings | BERT??? | 
