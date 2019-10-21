@@ -199,13 +199,13 @@ Readings may be from:
 | T 08 Oct | [N-gram language models](slides/11_lms.pdf) | SLP3 3 | 
 | R 10 Oct | [Recurrent neural language models](slides/12_nnlm.pdf) | SLP3 9 |
 | T 15 Oct | [Sequence labeling](slides/13_seqlab.pdf) | CIML 17 | 
-| R 17 Oct | [Encoder-decoder models](slides/14_encdec.pdf) | Neu 7-7.3.1 | HW3
+| R 17 Oct | [Encoder-decoder models](slides/14_encdec.pdf) | Neu 7-7.3.1 Neu 8 | HW3
 | T 22 Oct | *Project Pitches* | |  P1
-| R 24 Oct | Contextual word embeddings | BERT??? | 
+| R 24 Oct | Machine translation and evaluation (guest lecturer: [Marine Carpuat](http://www.cs.umd.edu/~marine/)) | [Bleu](https://aclweb.org/anthology/papers/P/P02/P02-1040/) | 
 | T 29 Oct | *Catch-up* | | 
-| R 31 Oct | Attention mechanisms | Neu  8 | P2
-| T 05 Nov | Multilingual models | TBA | HW4
-| R 07 Nov | Imitation learning | CIML 18 | 
+| R 31 Oct | Dependency parsing | SLP3 15-15.4 | P2
+| T 05 Nov | Imitation learning | CIML 18 | HW4
+| R 07 Nov | Reinforcement learning | TBA | 
 | T 12 Nov | Program synthesis from language | TBA | P3
 | R 14 Nov | *Late exam* |  | 
 | T 19 Nov | Grounded semantics: language to actions | TBA | 
