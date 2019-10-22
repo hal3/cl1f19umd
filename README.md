@@ -200,7 +200,7 @@ Readings may be from:
 | R 10 Oct | [Recurrent neural language models](slides/12_nnlm.pdf) | SLP3 9 |
 | T 15 Oct | [Sequence labeling](slides/13_seqlab.pdf) | CIML 17 | 
 | R 17 Oct | [Encoder-decoder models](slides/14_encdec.pdf) | Neu 7-7.3.1 Neu 8 | HW3
-| T 22 Oct | *Project Pitches* | |  P1
+| T 22 Oct | [*Project Pitches*](slides/15_pitches.pdf) | |  P1
 | R 24 Oct | Machine translation and evaluation (guest lecturer: [Marine Carpuat](http://www.cs.umd.edu/~marine/)) | [Bleu](https://aclweb.org/anthology/papers/P/P02/P02-1040/) | 
 | T 29 Oct | *Catch-up* | | 
 | R 31 Oct | Dependency parsing | SLP3 15-15.4 | P2
