@@ -203,16 +203,16 @@ Readings may be from:
 | T 22 Oct | [*Project Pitches*](slides/15_pitches.pdf) | |  P1
 | R 24 Oct | Machine translation and evaluation (guest lecturer: [Marine Carpuat](http://www.cs.umd.edu/~marine/)) | [Bleu](https://aclweb.org/anthology/papers/P/P02/P02-1040/) | 
 | T 29 Oct | *Catch-up* | | 
-| R 31 Oct | Dependency parsing | SLP3 15-15.4 | P2
-| T 05 Nov | Imitation learning | CIML 18 | HW4
-| R 07 Nov | Reinforcement learning | TBA | 
-| T 12 Nov | Program synthesis from language | TBA | P3
+| R 31 Oct | Dependency parsing | SLP3 15-15.4 | 
+| T 05 Nov | Imitation learning | CIML 18 | P2
+| R 07 Nov | Reinforcement learning | TBA | HW4
+| T 12 Nov | Program synthesis from language | TBA | 
 | R 14 Nov | *Late exam* |  | 
-| T 19 Nov | Grounded semantics: language to actions | TBA | 
-| R 21 Nov | Reading comprehension and question answering | TBA | HW5
-| T 26 Nov | Bias in language systems | TBA | P4
+| T 19 Nov | Grounded semantics: language to actions | TBA | P3
+| R 21 Nov | Reading comprehension and question answering | TBA | 
+| T 26 Nov | Bias in language systems | TBA | HW5
 | R 28 Nov | *Thanksgiving Break* |  | 
-| T 03 Dec | Interpretation of neural models | TBA | 
+| T 03 Dec | Interpretation of neural models | TBA | P4
 | R 05 Dec | Machine translation | TBA | 
 | T 17 Dec | *Project Poster Session (10:30a-12:30p)* |  | P5
 
