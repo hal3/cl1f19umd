@@ -106,7 +106,7 @@ There are several *deliverables* for the course project, with associated grade p
 - P4: Prototype/baseline implementation and initial results (5%)
 - P5: Final write-up and presentation (15%)
 
-Each team will be assigned one of the TAs with whom you should meet once before 12 Nov (the due date for P3). You should also meet with Hal once before Thanksgiving break. We will create a signup sheet early on in the semester; use your own judgment for when would be most useful for *you* to meet with us.
+Each team will be assigned one of the TAs with whom you should meet once before Thanksgiving break. You should also meet with Hal once before Thanksgiving break. We will create a signup sheet; use your own judgment for when would be most useful for *you* to meet with us.
 
 Please see [the course project pages](project/README.md) for more details!
 
