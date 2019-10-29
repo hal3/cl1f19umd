@@ -82,8 +82,7 @@ During this course, you will have five homework assignments that include both *p
 - [HW1: Distributional semantics and text categorization (no code hand-in)](homework/HW1)
 - [HW2: Neural networks and word embeddings](https://ec2-35-173-35-134.compute-1.amazonaws.com:9443/)
 - HW3: Data collection and evaluation
-- HW4: Sequence labeling
-- HW5: Encoder-decoder models with attention
+- HW4+5: Sequence labeling and encoder-decoder models with attention (worth 2 assignments)
 
 
 You will also complete one, large, course project, in teams of 4-8 students (exceptions are possible). The goal of this project is to enable you to work on a more significant, potentially impactful, project dealing with natural language. See the [course project description](#course-project) for more information.
@@ -205,7 +204,7 @@ Readings may be from:
 | T 29 Oct | *Catch-up* | | 
 | R 31 Oct | Dependency parsing | SLP3 15-15.4 | 
 | T 05 Nov | Imitation learning | CIML 18 | P2
-| R 07 Nov | Reinforcement learning | TBA | HW4
+| R 07 Nov | Reinforcement learning | TBA | 
 | T 12 Nov | Program synthesis from language | TBA | 
 | R 14 Nov | *Late exam* |  | 
 | T 19 Nov | Grounded semantics: language to actions | TBA | P3
