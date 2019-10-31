@@ -202,7 +202,7 @@ Readings may be from:
 | T 22 Oct | [*Project Pitches*](slides/15_pitches.pdf) | |  P1
 | R 24 Oct | Machine translation and evaluation (guest lecturer: [Marine Carpuat](http://www.cs.umd.edu/~marine/)) | [Bleu](https://aclweb.org/anthology/papers/P/P02/P02-1040/) | 
 | T 29 Oct | *Catch-up* | | 
-| R 31 Oct | Dependency parsing | SLP3 15-15.4 | 
+| R 31 Oct | [Dependency parsing](slides/17_parsing.pdf) | SLP3 15-15.4 | 
 | T 05 Nov | [Imitation learning](slides/18_imitation.pdf) | CIML 18 | P2
 | R 07 Nov | Reinforcement learning | TBA | 
 | T 12 Nov | Program synthesis from language | TBA | 
