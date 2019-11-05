@@ -204,7 +204,7 @@ Readings may be from:
 | T 29 Oct | *Catch-up* | | 
 | R 31 Oct | [Dependency parsing](slides/17_parsing.pdf) | SLP3 15-15.4 | 
 | T 05 Nov | [Imitation learning](slides/18_imitation.pdf) | CIML 18 | P2
-| R 07 Nov | Reinforcement learning | TBA | 
+| R 07 Nov | Imitation learning II (same slides) | [DepParse](https://www.aclweb.org/anthology/C12-1059.pdf) | 
 | T 12 Nov | Program synthesis from language | TBA | 
 | R 14 Nov | *Late exam* |  | 
 | T 19 Nov | Grounded semantics: language to actions | TBA | P3
