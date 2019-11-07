@@ -201,11 +201,11 @@ Readings may be from:
 | R 17 Oct | [Encoder-decoder models](slides/14_encdec.pdf) | Neu 7-7.3.1 Neu 8 | HW3
 | T 22 Oct | [*Project Pitches*](slides/15_pitches.pdf) | |  P1
 | R 24 Oct | Machine translation and evaluation (guest lecturer: [Marine Carpuat](http://www.cs.umd.edu/~marine/)) | [Bleu](https://aclweb.org/anthology/papers/P/P02/P02-1040/) | 
-| T 29 Oct | *Catch-up* | | 
-| R 31 Oct | [Dependency parsing](slides/17_parsing.pdf) | SLP3 15-15.4 | 
-| T 05 Nov | [Imitation learning](slides/18_imitation.pdf) [notes1](slides/il-notes1.pdf) | CIML 18 | P2
-| R 07 Nov | Imitation learning II (same slides) [notes2](slides/il-notes2.pdf) | [DepParse](https://www.aclweb.org/anthology/C12-1059.pdf) | 
-| T 12 Nov | Reinforcement learning | [RL4IE](https://arxiv.org/pdf/1603.07954.pdf) | 
+| T 29 Oct | [Dependency parsing](slides/17_parsing.pdf) | SLP3 15-15.4 | 
+| R 31 Oct | [Imitation learning](slides/18_imitation.pdf); [notes1](slides/il-notes1.pdf) | CIML 18  | 
+| T 05 Nov | Imitation learning II (same slides); [notes2](slides/il-notes2.pdf) | [DepParse](https://www.aclweb.org/anthology/C12-1059.pdf) | P2
+| R 07 Nov | [Reinforcement learning](slides/19_rl.pdf); [notes1](slides/rl-notes1.pdf) | [RL4IE](https://arxiv.org/pdf/1603.07954.pdf) | 
+| T 12 Nov | Reinforcement learning II (same slides); notes2 | [RL4IE](https://arxiv.org/pdf/1603.07954.pdf) | 
 | R 14 Nov | *Late exam* |  | 
 | T 19 Nov | Semantic parsing | TBA | P3
 | R 21 Nov | Reading comprehension and question answering | TBA | 
