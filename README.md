@@ -207,7 +207,7 @@ Readings may be from:
 | R 07 Nov | [Reinforcement learning](slides/19_rl.pdf); [notes1](slides/rl-notes1.pdf) | [RL4IE](https://arxiv.org/pdf/1603.07954.pdf) | 
 | T 12 Nov | Reinforcement learning II (same slides); notes2 | [RL4IE](https://arxiv.org/pdf/1603.07954.pdf) | 
 | R 14 Nov | *Late exam* |  | 
-| T 19 Nov | Semantic parsing | [Artzi+Zettlemoyer'13](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00209) [background](https://www.inf.ed.ac.uk/teaching/courses/nlg/readings/ccgintro.pdf) | P3
+| T 19 Nov | [Semantic parsing](slides/21_sem.pdf) | [Artzi+Zettlemoyer'13](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00209) [background](https://www.inf.ed.ac.uk/teaching/courses/nlg/readings/ccgintro.pdf) | P3
 | R 21 Nov | Language grounding | [Matuszek'18](http://iral.cs.umbc.edu/Pubs/MatuszekIJCAI2018_earlycareer.pdf) [Regier+Carlson'01, to skim](http://lclab.berkeley.edu/papers/avs-jepg.pdf) | 
 | T 26 Nov | Reading comprehension and question answering | [Chen+al'17](https://arxiv.org/pdf/1704.00051.pdf) [Jia+Liang'17](https://arxiv.org/pdf/1707.07328.pdf) | HW5
 | R 28 Nov | *Thanksgiving Break* |  | 
