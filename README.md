@@ -209,9 +209,9 @@ Readings may be from:
 | R 14 Nov | *Late exam* |  | 
 | T 19 Nov | [Semantic parsing](slides/21_sem.pdf) | [Artzi+Zettlemoyer'13](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00209) [background](https://www.inf.ed.ac.uk/teaching/courses/nlg/readings/ccgintro.pdf) | 
 | R 21 Nov | [Language grounding](slides/22_ground.pdf) | [Matuszek'18](http://iral.cs.umbc.edu/Pubs/MatuszekIJCAI2018_earlycareer.pdf) [Regier+Carlson'01, to skim](http://lclab.berkeley.edu/papers/avs-jepg.pdf) | P3
-| T 26 Nov | Language to action | [Branavan+al'09](https://acl-arc.comp.nus.edu.sg//~antho/P/P09/P09-1010.pdf) + [Khanh+D'19](http://hal3.name/docs/daume19hanna.pdf) | 
+| T 26 Nov | [Language to action](slides/23_action.pdf) | [Branavan+al'09](https://acl-arc.comp.nus.edu.sg//~antho/P/P09/P09-1010.pdf) + [Khanh+D'19](http://hal3.name/docs/daume19hanna.pdf) | 
 | R 28 Nov | *Thanksgiving Break* |  | 
-| T 03 Dec | Reading comprehension and question answering | [Chen+al'17](https://arxiv.org/pdf/1704.00051.pdf) [Jia+Liang'17](https://arxiv.org/pdf/1707.07328.pdf) | P4
+| T 03 Dec | [Reading comprehension and question answering](slides/24_qarc.pdf) | [Chen+al'17](https://arxiv.org/pdf/1704.00051.pdf) [Jia+Liang'17](https://arxiv.org/pdf/1707.07328.pdf) | P4
 | R 05 Dec | Interpretation of neural models | TBA | HW5
 | T 17 Dec | *Project Poster Session (10:30a-12:30p)* |  | P5
 
